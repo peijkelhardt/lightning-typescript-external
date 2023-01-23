@@ -1,0 +1,6 @@
+{
+  "name": "LightningJS TypeScript",
+  "identifier": "com.domain.app.LightningJSTypeScript",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
